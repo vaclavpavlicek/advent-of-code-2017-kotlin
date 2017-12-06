@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/advent-of-code-kotlin.iml" filepath="$PROJECT_DIR$/advent-of-code-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advent-of-code-2017-kotlin.iml" filepath="$PROJECT_DIR$/advent-of-code-2017-kotlin.iml" />
     </modules>
   </component>
 </project>
